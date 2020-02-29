@@ -1,0 +1,5 @@
+piotr\pet_clinic\model\Pet.class
+piotr\pet_clinic\model\Person.class
+piotr\pet_clinic\model\Owner.class
+piotr\pet_clinic\model\Vet.class
+piotr\pet_clinic\model\PetType.class
